@@ -1,0 +1,21 @@
+# Private
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Generated outputs
+outputs/*
+!outputs/monte_carlo_one_page.png
+
+# Local CSV kept off GitHub
+simulated_monte_carlo_trade_log.csv
