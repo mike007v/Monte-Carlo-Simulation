@@ -1,4 +1,4 @@
-# Simulated Monte Carlo Equity Curves
+# Monte Carlo Simulation
 
 This project uses Monte Carlo simulation to show how one set of trading strategy assumptions can lead to many different equity curve outcomes.
 
